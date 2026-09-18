@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+test.md

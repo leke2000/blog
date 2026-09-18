@@ -1,0 +1,37 @@
+# 站点配置（Jekyll + GitHub Pages）
+title: 实施工程师的排障手记
+tagline: Arthas、tcpdump、Wireshark、magic-api 同步脚本的实操记录
+description: >
+  一位医疗信息化实施工程师的内训周总结：从火焰图到抓包分析，
+  把现场排障的真实过程写成可复现的笔记。
+author: leke2000
+email: 1793023565@qq.com
+
+# GitHub Pages 关键项
+baseurl: "/blog"
+url: "https://leke2000.github.io"
+
+# 用 minima 主题（GitHub Pages 默认支持的）
+theme: minima
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# 不需要 jekyll 构建插件
+plugins: []
+
+# 排除不要的文件
+exclude:
+  - push-to-github.ps1
+  - push-to-github.sh
+  - README_INTERNAL.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# 文章摘要分隔符
+excerpt_separator: "<!--more-->"
+
+# 站点社交
+github_username: leke2000
