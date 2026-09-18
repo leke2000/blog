@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EMR 同步 · 内训周执行手册（Arthas + tcpdump + 时序图）"
-date: 2026-09-18 00:00:00 +0800
+date: 2026-09-18 12:00:00 +0800
 categories: [排障手记]
 tags: [周计划, EMR, 内训]
 ---
