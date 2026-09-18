@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arthas IDEA 插件 + trace/watch 命令实战教程"
-date: 2026-09-17 00:00:00 +0800
+date: 2026-09-17 12:00:00 +0800
 categories: [排障手记]
 tags: [Arthas, IDEA插件, trace, watch]
 ---
